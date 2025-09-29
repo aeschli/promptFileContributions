@@ -3,7 +3,7 @@
   "displayName": "promptfilecontributions",
   "description": "promptfilecontributions",
   "version": "1.0.0",
-  "publisher": "vscode",
+  "publisher": "aeschli",
   "license": "MIT",
   "engines": {
     "vscode": "^1.105.0"

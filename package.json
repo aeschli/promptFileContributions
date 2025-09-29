@@ -1,0 +1,38 @@
+{
+  "name": "promptfilecontributions",
+  "displayName": "promptfilecontributions",
+  "description": "promptfilecontributions",
+  "version": "1.0.0",
+  "publisher": "vscode",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "chatPromptFiles": [
+      {
+        "name": "Super Prompt",
+        "description": "The Super Prompt",
+        "path": "./files/prompt1.prompt.md"
+      }
+    ],
+    "chatInstructions": [
+      {
+        "name": "Super Instructione",
+        "description": "The Super Instructione",
+        "path": "./files/instruction.instructions.md"
+      }
+    ],
+    "chatModes": [
+      {
+        "name": "Super ChatNode",
+        "description": "The Super ChatNode",
+        "path": "./files/chatmode.chatmode.md"
+      }
+    ],
+   
+  }
+}

@@ -17,25 +17,25 @@
   "contributes": {
     "chatPromptFiles": [
       {
-        "name": "Super Prompt",
+        "name": "SuperPrompt",
         "description": "The Super Prompt",
         "path": "./files/prompt1.prompt.md"
       }
     ],
     "chatInstructions": [
       {
-        "name": "Super Instructione",
+        "name": "SuperInstructione",
         "description": "The Super Instructione",
         "path": "./files/instruction.instructions.md"
       }
     ],
     "chatModes": [
       {
-        "name": "Super ChatNode",
+        "name": "SuperChatNode",
         "description": "The Super ChatNode",
         "path": "./files/chatmode.chatmode.md"
       }
-    ],
+    ]
    
   }
 }

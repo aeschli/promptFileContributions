@@ -14,23 +14,23 @@
   "contributes": {
     "chatPromptFiles": [
       {
-        "name": "SuperPrompt",
-        "description": "The Super Prompt",
-        "path": "./files/prompt1.prompt.md"
+        "name": "vscode-localize",
+        "description": "Add or update the localization of the current VS Code project",
+        "path": "./files/localize.prompt.md"
       }
     ],
     "chatInstructions": [
       {
-        "name": "SuperInstructione",
-        "description": "The Super Instructione",
-        "path": "./files/instruction.instructions.md"
+        "name": "VS Code Extension Tests",
+        "description": "How to write VS Code extension tests",
+        "path": "./files/extension-tests.instructions.md"
       }
     ],
-    "chatModes": [
+    "chatAgents": [
       {
-        "name": "SuperChatNode",
-        "description": "The Super ChatNode",
-        "path": "./files/chatmode.chatmode.md"
+        "name": "VS Code Exension Agent",
+        "description": "Agent with VS Code Extension development knowledge
+        "path": "./files/vscode-extension.agent.md"
       }
     ]
    

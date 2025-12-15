@@ -11,9 +11,6 @@
   "categories": [
     "Programming Languages"
   ],
-  "enabledApiProposals": [
-    "chatParticipantPrivate"
-  ],
   "contributes": {
     "chatPromptFiles": [
       {

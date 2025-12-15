@@ -14,22 +14,22 @@
   "contributes": {
     "chatPromptFiles": [
       {
-        "name": "vscode-localize",
-        "description": "Add or update the localization of the current VS Code project",
+        "name": "vscodeLocalize",
+        "description": "Add or update the localization of the current VS Code extension",
         "path": "./files/localize.prompt.md"
       }
     ],
     "chatInstructions": [
       {
-        "name": "VS Code Extension Tests",
+        "name": "Extension Tests",
         "description": "How to write VS Code extension tests",
         "path": "./files/extension-tests.instructions.md"
       }
     ],
     "chatAgents": [
       {
-        "name": "VS Code Exension Agent",
-        "description": "Agent with VS Code Extension development knowledge
+        "name": "VSCode Extension",
+        "description": "Expert in VS Code Extension development",
         "path": "./files/vscode-extension.agent.md"
       }
     ]

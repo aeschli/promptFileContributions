@@ -1,4 +1,5 @@
 ---
+name: Extension Tests
 description: Instructions on how to write exension tests for VS Code.
 ---
 Setup: Install @vscode/test-electron package and create a test runner

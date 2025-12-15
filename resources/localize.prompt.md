@@ -2,6 +2,9 @@
 name: vscodeLocalize
 description: Add or update the localization of the current VS Code extension.
 ---
+
+Add or update the localization of the current VS Code extension.
+
 When adding or updating localization for a VS Code project, follow these steps:
 
 Replace all user-facing strings in the codebase with calls to `vscode.l10n.t` from the vscode API. For example, change:
